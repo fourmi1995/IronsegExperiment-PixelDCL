@@ -1,0 +1,4 @@
+./IronData_Camvid/testing/imgs/89_315.jpg ./IronData_Camvid/testing/labels/89_315.png
+./IronData_Camvid/testing/imgs/90.jpg ./IronData_Camvid/testing/labels/90.png
+./IronData_Camvid/testing/imgs/67.jpg ./IronData_Camvid/testing/labels/67.png
+./IronData_Camvid/testing/imgs/392_225.jpg ./IronData_Camvid/testing/labels/392_225.png
